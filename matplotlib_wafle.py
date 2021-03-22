@@ -1,5 +1,4 @@
-#BASADO EN:
-#https://stackoverflow.com/questions/41400136/how-to-do-waffle-charts-in-python-square-piechart
+#BASADO EN: https://stackoverflow.com/questions/41400136/how-to-do-waffle-charts-in-python-square-piechart
 
 import numpy as np
 import pandas as pd
