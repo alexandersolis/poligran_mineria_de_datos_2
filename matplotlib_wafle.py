@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 
 
-df = pd.read_csv("https://github.com/alexandersolis/poligran_mineria_de_datos_2/Datos_PQRS.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/alexandersolis/poligran_mineria_de_datos_2/main/Datos_PQRS.csv")
 
 # Now, we define a desired height and width.
 waffle_plot_width = 20
